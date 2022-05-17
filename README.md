@@ -9,30 +9,12 @@
   <a href="https://github.com/MShawon/YouTube-Viewer/releases/latest"><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/MShawon/YouTube-Viewer?color=success"></a>
   <a href="https://github.com/MShawon/YouTube-Viewer/releases/latest"><img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/MShawon/YouTube-Viewer?color=success"></a>
 </p>
-
-    Yb  dP  dP"Yb  88   88 888888 88   88 88""Yb 888888
-     YbdP  dP   Yb 88   88   88   88   88 88__dP 88__   
-      8P   Yb   dP Y8   8P   88   Y8   8P 88""Yb 88""   
-     dP     YbodP  `YbodP'   88   `YbodP' 88oodP 888888 
-
-                         Yb    dP 88 888888 Yb        dP 888888 88""Yb 
-                          Yb  dP  88 88__    Yb  db  dP  88__   88__dP 
-                           YbdP   88 88""     YbdPYbdP   88""   88"Yb  
-                            YP    88 888888    YP  YP    888888 88  Yb
-
-# YouTube Viewer
+# Octobot
 Simple program to increase YouTube views written in Python. Works with live stream too.
 
 **Disclaimer:** This has been developed for educational purposes only. Any action you take using this script is strictly at your own risk. I will not be liable for any losses or damages you face using this script.
 
 **Cons:** There will be some view drop always. 
-
-# Support
-   Consider a donation to keep this project alive and for the countless hours of works and testing :)
-   
-  **PayPal :** https://paypal.me/mshawon1
-  
-  **Bitcoin :** `1Jh8KZ6khuHayNDeVV9tEzYSq9FPExKCAH`
 
 # Topics
 [Requirements](https://github.com/MShawon/YouTube-Viewer#requirements)  
@@ -166,9 +148,6 @@ Simple program to increase YouTube views written in Python. Works with live stre
   *[PetroSky](https://petrosky.io/mshawon) is one of the various CloudHosting services with the fastest and most convenient cloud technology. Their servers are powered by the latest **AMD RYZEN/EPYC CPUs** with High-Performance **NVMe SSD Hard Drives** that will let your application run faster than ever. You can get 2 vCPU with 4 GB ECC RAM for as low as 11.99€/month which will work very well for YouTube-Viewer script for 2 threads. Visit [PetroSky](https://petrosky.io/mshawon) to get the fastest VPS with unlimited traffic at the lowest price. Use this code `mshawon25` to get **25% discount**  on your purchase*
 
 # Windows
-* ## Binary Release
-
-  For windows you can download binary releases from **[Binary releases](https://github.com/MShawon/YouTube-Viewer/releases)**. Download this file named `YouTube-Viewer_win_x.x.x.zip`, unzip it and run the `youtube_viewer.exe`. Or you can install it from source. To do so keep reading. 
   
 * ## Installation
 
@@ -253,8 +232,8 @@ Simple program to increase YouTube views written in Python. Works with live stre
   To get the most out of this script you should maintain these things.
   * Don't use HEADLESS mode. Because no IP leak prevention, fingerprint defending, etc. can be done in headless mode.
   * Youtube doesn't count views from the same IP after a certain time. Like, don't expect to get 100 views from 10 proxies. If you want more views, try to use a lot of premium proxies(free proxies are flagged by most websites). DO NOT use TOR proxies.
-  * Use both [urls.txt](https://github.com/MShawon/YouTube-Viewer#urls) and [search.txt](https://github.com/MShawon/YouTube-Viewer#search)
-  * And use as many [urls](https://github.com/MShawon/YouTube-Viewer#urls) and [keyword::::title](https://github.com/MShawon/YouTube-Viewer#search) as you can. Don't use just one video.
+  * Use both [urls.txt] and [search.txt]
+  * And use as many [urls] and [keyword::::title] as you can. Don't use just one video.
 
 
 # Credits
